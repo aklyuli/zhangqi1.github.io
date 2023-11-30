@@ -12,9 +12,9 @@ nav:
 
 <p>Site under maintenance</p>
 
-<! {%
+<! --{%
   include gallery.html style="border-radius"
   image1="images/cv.jpg"
   link1="cv"
   caption1=""
-%} >
+%} -->
