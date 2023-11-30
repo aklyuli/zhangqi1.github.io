@@ -1,6 +1,6 @@
 <h1 align="center">My Website</h1>
 <p align="center">
-<img height="200" src="images/lab.png" alt="Ding Lab Website">
+<img height="200" src="akl.png" alt="Ding Lab Website">
 </p>
 Welcome to My Personal Website!
 
