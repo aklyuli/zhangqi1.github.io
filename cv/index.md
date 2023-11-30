@@ -2,7 +2,7 @@
 title: CV
 nav:
   order: 2
-  tooltip: Wubin Ding's CV
+  tooltip: Zhang qi's CV
 ---
 
 {% include section.html dark=false%}
